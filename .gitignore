@@ -1,3 +1,7 @@
-#.class java
+#java
 
 *.class
+
+#imports
+
+*commons-lang3-3.14.0.jar
